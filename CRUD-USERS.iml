@@ -7,6 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="db4o-8.0.276.16149-all-java5" level="project" />
+    <orderEntry type="library" name="db4o-8.0.276.16149-all-java51" level="project" />
   </component>
 </module>

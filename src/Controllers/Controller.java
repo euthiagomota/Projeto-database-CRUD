@@ -15,7 +15,7 @@ public class Controller {
                         "2 - Atualizar Usuário\n" +
                         "3 - Consultar Usuários\n" +
                         "4 - Excluir Usuário\n" +
-                        "0 - Sair"
+                        "0 - Sair da aplicação"
         );
 
         switch (opcao) {
